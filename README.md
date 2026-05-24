@@ -2,8 +2,7 @@
 
 **Front-End (Angular) Developer | UI Designer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ahfateme79-181717?logo=github)](https://github.com/ahfateme79)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FatemehAhmadi-0A66C2?logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FatemehAhmadi-0A66C2?logo=linkedin)](https://linkedin.com/in/ahfateme79)
 [![Gmail](https://img.shields.io/badge/Email-ahfateme79%40gmail.com-EA4335?logo=gmail)](mailto:ahfateme79@gmail.com)
 
 ---
