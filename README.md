@@ -21,7 +21,7 @@ I'm a **Frontend Developer with 4+ years of experience**, specializing in **Angu
 
 - 📧 Email: [ahfateme79@gmail.com](mailto:ahfateme79@gmail.com)
 - 📱 Phone: (+98) 910-311-7690
-- 🔗 LinkedIn: [linkedin.com/in/ahfateme79](https://linkedin.com/in/ahfateme79) (replace with your actual LinkedIn)
+- 🔗 LinkedIn: [linkedin.com/in/ahfateme79](https://linkedin.com/in/ahfateme79)
 
 ---
 
